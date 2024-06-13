@@ -55,18 +55,23 @@ For set to home position, Send the Moving message to Home position.
 To Move the arm by specific Angle(forward kinetics)
  + Enter angle value and click move
  + To access gripper in the movement, use slider to choose value for Gripper.
+   
 !!!This application will convert the angle base on your input parameter to step and send it to MCU
 After Moving, the application will display the Pose of the arm in Pose section( Orientation and Position)
+
 **Message form: DA(numStep)B(numStep)C(numStep)D(numStep)E(numStep)F(numStep)G(GripperStatus)**
 
 To Move the arm by Pose( inverse Kinetics)
  + Enter your expected Pose
  + The Application will calculate the inverse kinetic equation of the Arm to get the angle eachs joint has to move.
  + The angle value will be converted to step and sent to MCU
+   
 **Message form: DA(numStep)B(numStep)C(numStep)D(numStep)E(numStep)F(numStep)G(GripperStatus)**
 
-
-
+**Interpolation Movement**
+ + Click the check box to choose interpolation movement type
+ + Enter Res(mm) (Resolution for linterpolation)
+  
 
 * 
 Robot arm design V2
