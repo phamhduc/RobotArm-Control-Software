@@ -4,7 +4,7 @@ Put EXE file and Dpack in the same folder
 This application is undercontruction
 
 
-Inverse Kinetic Test
+Inverse Kinematic Test
 https://www.youtube.com/watch?v=r0UIWNHXIsQ
 
 Application Demo Video
