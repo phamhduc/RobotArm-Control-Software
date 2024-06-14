@@ -1,7 +1,7 @@
 ## RobotArm-Control-Software
 Put EXE file and Dpack in the same folder
 
-This application is undercontruction
+**This application is still undercontruction**
 
 
 Inverse Kinematic Test
