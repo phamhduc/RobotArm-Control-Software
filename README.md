@@ -20,6 +20,7 @@ Note:
 + Calibrate to home: to set up the moving distance from the calibrate switch to Home.
 
 !!! Serial Communication will be explained clearly for each function. 
+
 !!! The overal routine of Serial Communication is to send the message to MCU and wait for "Ok" message sent from MCU for each action.
 
 ![image](https://github.com/phamhduc/RobotArm-Control-Software/assets/101264143/e1819ec2-6fb8-4c52-b119-23baf3859d3e)
