@@ -73,7 +73,7 @@ To Move the arm by Pose( inverse Kinetics)
  + Click the check box to choose interpolation movement type
  + Enter Res(mm) (Resolution for linterpolation)
   
-## Robot arm design V2
+## Robot arm V2 3D- Model
 
 ![image](https://github.com/phamhduc/RobotArm-Control-Software/assets/101264143/a30de161-779a-41eb-b42d-172bae49d36e)
 
