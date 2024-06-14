@@ -13,7 +13,7 @@ https://youtu.be/nj29ULLXav4
 ## How to use this application
 
 Note: 
-+ Before using this application to control your robot arm, please enter your robot's parameter in Robot Congifuration Tab.
++ Before using this application to control your robot arm, please input your robot's parameter in Robot Congifuration Tab.
 + Number of steps each joint has to move is calculated in this application, MCU will receive the message with the specific value in STEP number.
 + You can adjust the step number by changing Reduction Ratio for each joints.
 + Upper Limit and Lower Limit is based on your actual working range of your arm.
@@ -72,9 +72,7 @@ To Move the arm by Pose( inverse Kinetics)
  + Click the check box to choose interpolation movement type
  + Enter Res(mm) (Resolution for linterpolation)
   
-
-* 
-Robot arm design V2
+## Robot arm design V2
 
 ![image](https://github.com/phamhduc/RobotArm-Control-Software/assets/101264143/a30de161-779a-41eb-b42d-172bae49d36e)
 
@@ -85,5 +83,7 @@ Robot arm design V2
 ![image](https://github.com/phamhduc/RobotArm-Control-Software/assets/101264143/6eb2bfcb-ffe5-4eb2-b3ae-b020d690d404)
 
 
+This robot arm is designed to be 3D-printable using a 3D printer with a minimum working dimemsion of 220x220x300 mm.
 
-Will be published soon
+
+The 3D model will be published soon
