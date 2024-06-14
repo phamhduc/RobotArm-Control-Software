@@ -32,7 +32,7 @@ PORT: To choose avaiable port to connect to MCU
 
 BAUDRATE: To set Baudrate.
 
-**Basic Function**
+## Basic Function
 
 These Function to set speed, accelerate. and to calibrate joints or set robot arm to home position.
 
@@ -47,7 +47,7 @@ The message type sent to arduino :
 
 For set to home position, Send the Moving message to Home position.
 
-**Moving Parameter**
+## Moving Parameter
 
 ![image](https://github.com/phamhduc/RobotArm-Control-Software/assets/101264143/c2bb3b6f-cae8-4f09-b352-d04a062630b5)
 
