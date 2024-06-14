@@ -24,7 +24,7 @@ Note:
 
 ![image](https://github.com/phamhduc/RobotArm-Control-Software/assets/101264143/e1819ec2-6fb8-4c52-b119-23baf3859d3e)
 
-**Serial configuration**
+## Serial configuration
 
 ![image](https://github.com/phamhduc/RobotArm-Control-Software/assets/101264143/61e50795-bd00-4d18-9cdd-f7bab7aeec3d)
 
