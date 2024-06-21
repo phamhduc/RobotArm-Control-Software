@@ -13,6 +13,11 @@ https://www.youtube.com/watch?v=weg_Roc70cU
 Application Demo Video
 https://youtu.be/nj29ULLXav4
 
+
+Vision system demo
+
+https://www.youtube.com/watch?v=CckkPZei0uk
+
 ## How to use this application
 
 Note: 
