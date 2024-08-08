@@ -3,6 +3,8 @@ Put EXE file and Dpack in the same folder
 
 **This application is still undercontruction**
 
+https://www.youtube.com/shorts/FX_H2kLgglc
+
 https://www.youtube.com/watch?v=CckkPZei0uk
 
 Inverse Kinematic Test
